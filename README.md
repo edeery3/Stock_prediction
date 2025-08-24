@@ -1,5 +1,8 @@
 # Stock_prediction
 
+Research Question: How effective is ARIMA for modelling stock prices, and what trends can be identified from its fitted components and how can these be compared to other machine learning models? 
+
+
 This repository contains the code, analysis, and report for my MSc Data Science dissertation project at the University of Hertfordshire. The project investigates stock price forecasting using ARIMA, rolling ARIMA, and LSTM models, applied to FTSE 100 companies between 2015–2025.
 
 
