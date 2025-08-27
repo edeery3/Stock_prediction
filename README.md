@@ -8,10 +8,12 @@ This repository contains the code, analysis, and report for my MSc Data Science 
 
 The aim of this project is to evaluate the performance of statistical and machine learning methods for financial time series forecasting.
 
-Data: Daily closing prices of FTSE 100 stocks (GSK, BAE Systems, EasyJet)
+Data - Daily closing prices of FTSE 100 stocks (GSK, BAE Systems, EasyJet)
 
-Models: ARIMA, rolling ARIMA, and LSTM neural networks
+Models - ARIMA, rolling ARIMA, and LSTM neural networks
 
-Evaluation: RMSE, AIC, and Ljung-Box statistics
+Evaluation -  RMSE, AIC, Ljung-Box statistics along with forecasts
 
-Key Finding: ARIMA provides robust short-term forecasts for stationary stocks, while LSTM can capture trends in non-stationary stocks but requires further optimisation.
+Conclusion
+
+ARIMA provides robust short-term forecasts for stationary stocks, while LSTM can capture trends in non-stationary stocks but requires further optimisation.
